@@ -1,0 +1,103 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">ism</th>
+      <th scope="col">familya</th>
+      <th scope="col">email</th>
+    </tr>
+  </thead>
+  <tbody id="tbody">
+  </tbody>
+</table>
+<script>
+
+ function getTokenExpirationTime(token){
+    const decodedToken = JSON.parse(atob(token.split(".")[1]))
+
+    if(decodedToken.exp){
+        return new Date(decodedToken.exp*1000)
+    }
+    return null
+ }
+
+ async function refreshTokenFunc(){
+    try{
+        const response = await fetch("http://localhost:3030/api/author/refresh", {
+            method:"POST",
+            headers:{
+                "Content-Type": "application/json"
+            }
+        })
+        const data = await response.json()
+        console.log(data)
+        if(data.error && data.error == "jwt expired"){
+            console.log("refresh token time up")
+            return window.location.replace("/login")
+        } 
+        localStorage.setItem("accessToken", data.accessToken)
+        
+        return data.accessToken
+
+    }catch{
+        console.log("RefreshToken", error)
+        return window.location.replace("/login")
+    }
+
+ }
+
+async function getAuthors(){
+
+    let accessToken = localStorage.getItem("accessToken") 
+    console.log(accessToken)
+    const accessTokenExpTime = getTokenExpirationTime(accessToken)
+
+    if(accessTokenExpTime){
+        const currentTime = new Date()
+        if(currentTime< accessTokenExpTime){
+            console.log("access token faol")
+        }else{
+            console.log("Access token time up")
+            accessToken = await refreshTokenFunc()
+              console.log("new access token ", accessToken)
+        }
+    }
+
+    fetch("http://localhost:3030/api/author/all", {
+        method:"GET",
+        headers:{
+            Authorization: `Bearer ${accessToken}`,
+            "Content-Type": "application/json"
+        }
+    })
+    .then((res) => {
+        if(!res.ok){
+            console.log("malumotlar yetib kemadi")
+            return 0
+        }
+    return res.json()
+    })
+    .then((data) => {
+        const tbody = document.getElementById("tbody")
+        let i =1
+        for(let author of data.authors){
+            console.log(author)
+            tbody.innerHTML+=`
+                <tr>
+                    <th scope="row">${i}</th>
+                    <td>${author.author_first_name}</td>
+                    <td>${author.author_last_name}</td>
+                    <td>${author.author_email}</td>
+                </tr>
+            `
+            i++
+
+        }
+    })
+
+
+
+
+}
+getAuthors()
+</script>

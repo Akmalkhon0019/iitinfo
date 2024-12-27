@@ -1,0 +1,95 @@
+2024-12-23T11:11:31.387Z [32minfo[39m: Log malumotlai
+2024-12-23T11:11:31.389Z [31merror[39m: Error malumotlar
+2024-12-23T11:11:31.389Z [33mwarn[39m: Warning malumotlar
+2024-12-23T11:11:31.389Z [32minfo[39m: Info malumotlar
+2024-12-23T11:11:40.042Z [32minfo[39m: Log malumotlai
+2024-12-23T11:11:40.043Z [31merror[39m: Error malumotlar
+2024-12-23T11:11:40.044Z [33mwarn[39m: Warning malumotlar
+2024-12-23T11:11:40.044Z [32minfo[39m: Info malumotlar
+2024-12-23T11:14:23.813Z error: Error malumotlar
+2024-12-23T11:14:42.724Z error: Error malumotlar
+2024-12-23T11:15:03.954Z error: Error malumotlar
+2024-12-23T11:15:07.137Z error: Error malumotlar
+2024-12-23T11:15:10.672Z error: Error malumotlar
+2024-12-23T11:15:14.432Z error: Error malumotlar
+2024-12-23T11:15:16.481Z error: Error malumotlar
+2024-12-23T11:16:39.153Z error: Error malumotlar
+2024-12-23T11:16:40.828Z error: Error malumotlar
+2024-12-23T11:16:47.399Z error: Error malumotlar
+2024-12-23T11:16:49.412Z error: Error malumotlar
+2024-12-23T11:16:56.013Z error: Error malumotlar
+2024-12-23T11:17:00.805Z error: Error malumotlar
+2024-12-23T11:17:03.484Z error: Error malumotlar
+2024-12-23T11:20:23.701Z error: Error malumotlar
+2024-12-23T11:20:47.611Z error: Error malumotlar
+2024-12-23T11:20:49.667Z error: Error malumotlar
+2024-12-23T11:21:12.118Z error: Error malumotlar
+2024-12-23T11:21:34.972Z error: Error malumotlar
+2024-12-23T11:21:48.845Z error: Error malumotlar
+2024-12-23T11:22:06.220Z error: Error malumotlar
+2024-12-23T11:22:20.817Z error: Error malumotlar
+2024-12-23T11:22:26.004Z error: Error malumotlar
+2024-12-23T11:22:45.736Z error: Error malumotlar
+2024-12-23T11:22:51.079Z error: Error malumotlar
+2024-12-23T11:22:54.169Z error: Error malumotlar
+2024-12-23T11:22:58.712Z error: Error malumotlar
+2024-12-23T11:23:01.544Z error: Error malumotlar
+2024-12-23T11:24:16.645Z error: Error malumotlar
+2024-12-23T11:25:09.660Z error: Error malumotlar
+2024-12-23T11:26:45.990Z error: Error malumotlar
+2024-12-23T11:32:32.790Z error: Error malumotlar
+2024-12-23T11:33:58.252Z error: Error malumotlar
+2024-12-23T11:34:02.493Z error: Error malumotlar
+2024-12-23T11:34:30.977Z error: Error malumotlar
+2024-12-23T11:43:40.554Z error: Error malumotlar
+2024-12-23T11:45:08.650Z error: Error malumotlar
+2024-12-23T11:45:10.906Z error: Error malumotlar
+2024-12-23T11:45:18.020Z error: Error malumotlar
+2024-12-23T11:46:32.306Z error: Error malumotlar
+2024-12-23T11:48:38.964Z error: E11000 duplicate key error collection: test.users index: user_email_1 dup key: { user_email: "abdulazizbekabdusodiqov@gmail.com" }
+2024-12-24T10:21:16.168Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:24:06.793Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:25:15.505Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:34.293Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:34.911Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.098Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.274Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.444Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.604Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.765Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:35.938Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.109Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.274Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.441Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.596Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.767Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:36.952Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:26:37.061Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:27:23.136Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:27:25.534Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:27:33.386Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:28:23.608Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:29:52.640Z error: No default engine was specified and no extension was provided.
+2024-12-24T10:31:15.183Z error: No default engine was specified and no extension was provided.
+2024-12-24T10:34:06.073Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-24T10:34:06.434Z error: Failed to lookup view "/home/c5/Desktop/najot_talim/ITinfo/views/undefined" in views directory "./views"
+2024-12-25T05:32:49.990Z error: Topic validation failed: author_id: Path `author_id` is required., topic_title: Path `topic_title` is required., topic_text: Path `topic_text` is required.
+2024-12-25T05:35:52.784Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:36:50.683Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:37:21.302Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:37:54.582Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:37:55.401Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:38:52.433Z error: Schema hasn't been registered for model "Expert".
+Use mongoose.model(name, schema)
+2024-12-25T05:50:27.758Z error: dictValiadation is not a function
+2024-12-25T11:49:00.088Z error: E11000 duplicate key error collection: test.authors index: author_nick_name_1 dup key: { author_nick_name: "khanx" }
+2024-12-25T11:49:21.158Z error: E11000 duplicate key error collection: test.authors index: author_nick_name_1 dup key: { author_nick_name: "khanx" }
+2024-12-25T19:51:23.320Z error: Expected ',' or '}' after property value in JSON at position 122 (line 6 column 5)
+2024-12-26T08:50:04.046Z error: E11000 duplicate key error collection: test.authors index: author_nick_name_1 dup key: { author_nick_name: "khanx" }
+2024-12-26T08:50:14.902Z error: E11000 duplicate key error collection: test.authors index: author_nick_name_1 dup key: { author_nick_name: "khanx" }
+2024-12-26T17:20:13.112Z error: E11000 duplicate key error collection: news.authors index: author_nick_name_1 dup key: { author_nick_name: "rumi" }

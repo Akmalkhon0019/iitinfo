@@ -1,0 +1,200 @@
+2024-12-23T11:23:04.450Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:24:20.696Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:25:12.415Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:26:48.883Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:32:35.738Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:34:00.956Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:34:05.047Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:34:33.429Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:39:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:43:42.959Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:55:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:45:13.377Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:55:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:45:20.534Z error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (/home/c5/Desktop/ITinfo/node_modules/express/lib/application.js:635:24)
+    at start (/home/c5/Desktop/ITinfo/app.js:55:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-24T10:52:55.973Z error: uncaughtException: Unexpected token '}'
+/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:144
+    res.status(200).send({ message: "Tizimga hush kelibsiz", ... });
+                                                                 ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-24T10:53:33.642Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:146
+      , 
+      ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-24T10:53:39.986Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:146
+      author_id : , 
+                  ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/routes/category.routes.js:1:28)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-24T11:40:53.398Z error: uncaughtException: Unexpected end of input
+/home/c5/Desktop/najot_talim/ITinfo/services/jwt.service.js:50
+
+
+
+SyntaxError: Unexpected end of input
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:8:23)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-24T11:43:41.455Z error: uncaughtException: Unexpected token '}'
+/home/c5/Desktop/najot_talim/ITinfo/services/jwt.service.js:58
+}
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/najot_talim/ITinfo/controllers/author.controller.js:8:23)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-25T03:18:41.309Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/ITinfo/routes/author.routes.js:18
+router.get("/all", getAuthors); , authorPolice
+                                ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:7:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2024-12-25T03:18:45.564Z error: uncaughtException: Unexpected token ','
+/home/c5/Desktop/ITinfo/routes/author.routes.js:18
+router.get("/all", getAuthors); , authorPolice
+                                ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/c5/Desktop/ITinfo/routes/index.routes.js:7:21)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
